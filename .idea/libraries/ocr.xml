@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="ocr">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/jar/ocr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/webapp/WEB-INF/jar/ocr.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
